@@ -172,6 +172,8 @@ https://github.com/altomizawa/altomizawa/assets/45319659/6fcb84b9-0549-4659-9b99
 
 # LET'S GET IN TOUCH
 
+<a href="https://wa.me/5561998133337"><img align='left' alt='header image' width="170px" src="./whatsapp.svg" /> Whatsapp</a>
+
 
 
 
