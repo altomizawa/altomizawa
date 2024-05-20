@@ -150,4 +150,26 @@ To view the live website, visit: https://open2024.netlify.app/
 </br>
 <img align='left' alt='KOR Rep Counter' src="./rep counter.png">
 </br>
+---
+
+
+### 4. PERSONAL ART DIRECTOR PORTFOLIO (NO CODE PLATFORM)
+### Skills:
+Design, Webflow (no code)
+
+### Live view:
+To view the live website, visit: https://al-tomizawas-awesome-site.webflow.io/
+
+### Demo Video:
+#
+</br>
+</br>
+
+https://github.com/altomizawa/altomizawa/assets/45319659/6fcb84b9-0549-4659-9b99-91d843f6eaf5
+
+
+</br>
+
+
+
 
