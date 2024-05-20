@@ -6,7 +6,7 @@
 
 My past:
 -
-  - Worked at advertising agencies in [NY](https://www.bartleboglehegarty.com/new-york) <img alt='html logo' width='100px' style="top: 30px" src="./BBH_logo.png" /> and [LA](https://www.tbwachiatdayla.com/) <img alt='html logo' width='100px' style="padding-right:2px;" src="./TBWA_logo.png" />creating campaigns for brands like Playstation, JBL, Whiskas, etc.
+  - Worked at advertising agencies in [NY](https://www.bartleboglehegarty.com/new-york) and [LA](https://www.tbwachiatdayla.com/) creating campaigns for brands like Playstation, JBL, Whiskas, etc.
 
   - Opened one of the first CrossFit Boxes in Brazil
 
@@ -16,7 +16,7 @@ What I'm up to now:🌱🌱
 
 Fun Facts:⚡⚡
 -
-  - I'm very good a Photoshop. [Here's an image](https://www.instagram.com/p/CZdjcets-qA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) of my daughter's dream of a sausage in a bathtub (she was only 6 at the time)
+  - I'm very good at Photoshop. [Here's an image](https://www.instagram.com/p/CZdjcets-qA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) of my daughter's dream of a sausage in a bathtub (she was only 6 at the time)
   - [I'm probably the first CrossFitter](https://www.instagram.com/p/BXqbBkjBOeo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) in Brazil (started in 2008)
 
 ---
