@@ -42,7 +42,10 @@
   - I'm very good at Photoshop. [Here's an image](https://www.instagram.com/p/CZdjcets-qA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) of my daughter's dream of a sausage in a bathtub (she was only 6 at the time)
   - [I'm probably the first CrossFitter](https://www.instagram.com/p/BXqbBkjBOeo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) in Brazil (started in 2008)
 
----
+</br>
+</br>
+</br>
+</br>
 
 ### DEVELOPMENT TOOLS
 <img align='left' alt='html logo' width='30px' style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
