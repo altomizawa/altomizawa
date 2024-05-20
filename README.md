@@ -87,14 +87,19 @@
 
 ### 1. ITALIA RESTAURANT DELIVERY APP
 
-### GITHUB REPOSITORY
+### Github Repository:
+FRONTEND: https://github.com/altomizawa/food-ordering_frontend
+</br>
+BACKEND: https://github.com/altomizawa/food-ordering_backend
 
-
-### LIVE VIEW
+### Live view:
 To view the live website, visit: www.italianrestaurant.fairuse.org
-To login use username: chucknorris@gmail.com / password: 123456
+</br> username: chucknorris@gmail.com </br> password: 123456
+</br>
+Or create an account
 
-### SCREENSHOTS
+### Screenshots:
+#
 </br>
 </br>
 <img align='left' alt='restaurant app screenshot' src="./restaurant app.png">
