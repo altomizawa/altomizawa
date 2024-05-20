@@ -4,7 +4,7 @@
 ### I'm a senior Art Director/Designer who can code.
 (I'm also a CrossFit Box Owner, my wife's personal chef and my daughter's Uber driver )
 
-
+<img align='left' alt='header image' src="./my-past.svg" />
 My past:
 -
   - Worked at advertising agencies in [NY](https://www.bartleboglehegarty.com/new-york) and [LA](https://www.tbwachiatdayla.com/) creating campaigns for brands like Playstation, JBL, Whiskas, etc.
