@@ -13,6 +13,8 @@
 </br>
 </br>
 </br>
+</br>
+</br>
 
   - Worked at advertising agencies in [NY](https://www.bartleboglehegarty.com/new-york) and [LA](https://www.tbwachiatdayla.com/) creating campaigns for brands like Playstation, JBL, Whiskas, etc.
 
@@ -24,6 +26,8 @@
 </br>
 </br>
 </br>
+</br>
+
 
   - I finished Triple Ten's Web Developer course and trying to improve my coding skills because it's fun and challenging
 
