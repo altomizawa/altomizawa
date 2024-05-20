@@ -1,4 +1,4 @@
-
+<img align='left' alt='header image' src="./github__header-image.svg" />
 
 # -
 ### I'm a senior Art Director/Designer who can code.
