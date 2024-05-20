@@ -29,7 +29,7 @@
 </br>
 
 
-  - I finished Triple Ten's Web Developer course and trying to improve my coding skills because it's fun and challenging
+  - I finished Triple Ten's Web Developer course and trying to improve my coding skills because I love solving problems
 
 <img align='left' alt='header image' width="170px" src="./fun-facts.svg" />
 
