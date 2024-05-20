@@ -75,23 +75,24 @@
 <img align='left' alt='html logo' width='30px' style="padding-right:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/9/90/20211228192034%21DaVinci_Resolve_17_logo.svg/120px-DaVinci_Resolve_17_logo.svg.png" />
 <img align='left' alt='html logo' width='30px' style="padding-right:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/120px-Blender_logo_no_text.svg.png" />
 
-  
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
+# PROJECTS
 
+### 1. ITALIA RESTAURANT DELIVERY APP
 
-          
-          
-<!--
-**altomizawa/altomizawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### LIVE VIEW
+To view the live website, visit: www.italianrestaurant.fairuse.org
 
-Here are some ideas to get you started:
+### SCREENSHOTS
+</br>
+</br>
+<img align='right' alt='photoshop logo' width='450px' src="https://github.com/altomizawa/food-ordering_frontend/assets/45319659/95ad3925-f29e-453a-9f26-674abcb2ab74">
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
