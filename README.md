@@ -6,7 +6,7 @@
 
 My past:
 -
-  - Worked at advertising agencies in [NY](https://www.bartleboglehegarty.com/new-york) <img alt='html logo' width='100px' style="top: 30px" src="https://www.wearechemistry.com/images/BBH-logo-white.png" /> and [LA](https://www.tbwachiatdayla.com/) <img alt='html logo' width='100px' style="padding-right:2px;" src="https://images.squarespace-cdn.com/content/v1/5ef28be05b9f6c3d53428a14/1600451950430-HKBJGU6M57U7W4U1E21T/Updated_TBWALogo_White.png" />creating campaigns for brands like Playstation, JBL, Whiskas, etc.
+  - Worked at advertising agencies in [NY](https://www.bartleboglehegarty.com/new-york) <img alt='html logo' width='100px' style="top: 30px" src="./BBH_logo.png" /> and [LA](https://www.tbwachiatdayla.com/) <img alt='html logo' width='100px' style="padding-right:2px;" src="./TBWA_logo.png" />creating campaigns for brands like Playstation, JBL, Whiskas, etc.
 
   - Opened one of the first CrossFit Boxes in Brazil
 
