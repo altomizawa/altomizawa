@@ -131,4 +131,23 @@ Or create an account
 </br>
 <img align='left' alt='restaurant app screenshot' src="./kor leaderboard.png">
 </br>
+---
+
+
+### 3. KOR REP COUNTER FOR CROSSFIT OPEN 2024
+### Skills:
+Design, Frontend
+
+### Github Repository:
+FRONTEND: https://github.com/altomizawa/open2024_leaderboard
+
+### Live view:
+To view the live website, visit: https://open2024.netlify.app/
+
+### Screenshots:
+#
+</br>
+</br>
+<img align='left' alt='KOR Rep Counter' src="./rep counter.png">
+</br>
 
