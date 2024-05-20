@@ -83,7 +83,7 @@
 </br>
 </br>
 
-# PROJECTS
+# MAIN PROJECTS
 
 ### 1. ITALIA RESTAURANT DELIVERY APP
 
@@ -139,7 +139,7 @@ Or create an account
 Design, Frontend
 
 ### Github Repository:
-FRONTEND: https://github.com/altomizawa/open2024_leaderboard
+FRONTEND: https://github.com/altomizawa/open24
 
 ### Live view:
 To view the live website, visit: https://open2024.netlify.app/
