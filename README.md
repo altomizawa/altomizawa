@@ -1,12 +1,17 @@
 <img align='left' alt='header image' src="./github__header-image.svg" />
+</br>
 
-# -
+.
+
 ### I'm a senior Art Director/Designer who can code.
 (I'm also a CrossFit Box Owner, my wife's personal chef and my daughter's Uber driver )
 
-<img align='left' alt='header image' src="./my-past.svg" />
-My past:
--
+#
+
+<img align='left' alt='header image' width="150px" src="./my-past.svg" />
+</br>
+</br>
+
   - Worked at advertising agencies in [NY](https://www.bartleboglehegarty.com/new-york) and [LA](https://www.tbwachiatdayla.com/) creating campaigns for brands like Playstation, JBL, Whiskas, etc.
 
   - Opened one of the first CrossFit Boxes in Brazil
