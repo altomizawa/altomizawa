@@ -103,5 +103,26 @@ Or create an account
 </br>
 </br>
 <img align='left' alt='restaurant app screenshot' src="./restaurant app.png">
+---
+
+
+### 2. KOR CROSSFIT LEADERBOARD
+
+### Github Repository:
+FRONTEND: https://github.com/altomizawa/open2024_leaderboard
+</br>
+BACKEND: https://github.com/altomizawa/open2024_leaderboard_backend
+
+### Live view:
+To view the live website, visit: https://korleaderboardopen2024.netlify.app/
+</br> username: chucknorris@gmail.com </br> password: Chucky77
+</br>
+Or create an account
+
+### Screenshots:
+#
+</br>
+</br>
+<img align='left' alt='restaurant app screenshot' src="./kor leaderboard.png">
 </br>
 
