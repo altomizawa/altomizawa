@@ -3,15 +3,37 @@
 (I'm also a CrossFit Box Owner, my wife's personal chef and my daughter's uber driver )
 
 My past:
+-
   - Worked at advertising agencies in [NY](https://www.bartleboglehegarty.com/new-york) and [LA](https://www.tbwachiatdayla.com/) creating campaigns for brands like Playstation, JBL, Whiskas, etc.
   - Opened one of the first CrossFit Boxes in Brazil
 
-🌱🌱 What I'm up to now:
+What I'm up to now:🌱🌱
+-
   - I finished Triple Ten's Web Developer course and trying to improve my coding skills because it's fun and challenging
 
-⚡⚡ Fun Facts:
+Fun Facts:⚡⚡
+-
   - I'm very good a Photoshop. [Here's an image](https://www.instagram.com/p/CZdjcets-qA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) of my daughter's dream of a sausage in a bathtub (she was only 6 at the time)
   - [I'm the first CrossFitter](https://www.instagram.com/p/BXqbBkjBOeo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) in Brazil (since 2008)
+### Development Tools
+<img align='left' alt='html logo' width='30px' style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align='left' alt='html logo' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align='left' alt='html logo' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align='left' alt='html logo' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align='left' alt='html logo' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align='left' alt='html logo' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align='left' alt='html logo' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align='left' alt='html logo' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align='left' alt='mongo db logo' height='30px' src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+-
+### Design Tools
+  
+
+
+
+          
+          
 <!--
 **altomizawa/altomizawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
