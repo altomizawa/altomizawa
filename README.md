@@ -87,6 +87,9 @@
 
 ### 1. ITALIA RESTAURANT DELIVERY APP
 
+### Skills:
+Design, Frontend, Backend, Database
+
 ### Github Repository:
 FRONTEND: https://github.com/altomizawa/food-ordering_frontend
 </br>
@@ -107,6 +110,9 @@ Or create an account
 
 
 ### 2. KOR CROSSFIT LEADERBOARD
+
+### Skills:
+Design, Frontend, Backend, Database
 
 ### Github Repository:
 FRONTEND: https://github.com/altomizawa/open2024_leaderboard
