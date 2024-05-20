@@ -40,7 +40,7 @@
 
 ---
 
-### Development Tools
+### DEVELOPMENT TOOLS
 <img align='left' alt='html logo' width='30px' style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align='left' alt='css3 logo' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align='left' alt='javascript logo' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -54,7 +54,7 @@
 
 #
 
-### Design Tools
+### DESIGN TOOLS
 <img align='left' alt='photoshop logo' width='30px' style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img align='left' alt='illustrator logo' width='30px' style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
 <img align='left' alt='figma logo' width='30px' style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
@@ -64,7 +64,7 @@
 #
 
 
-### Other Tools I know
+### OTHER TOOLS I KNOW
 <img align='left' alt='html logo' width='30px' style="padding-right:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/9/90/20211228192034%21DaVinci_Resolve_17_logo.svg/120px-DaVinci_Resolve_17_logo.svg.png" />
 <img align='left' alt='html logo' width='30px' style="padding-right:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/120px-Blender_logo_no_text.svg.png" />
 
