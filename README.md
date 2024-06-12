@@ -155,10 +155,10 @@ To view the live website, visit: https://open2024.netlify.app/
 
 ### 4. PERSONAL ART DIRECTOR PORTFOLIO (NO CODE PLATFORM)
 ### Skills:
-Design, Webflow (no code)
+Design, React
 
 ### Live view:
-To view the live website, visit: https://al-tomizawas-awesome-site.webflow.io/
+To view the live website, visit: https://alsportfolio.netlify.app/
 
 ### Demo Video:
 #
