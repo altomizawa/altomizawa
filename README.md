@@ -108,52 +108,7 @@ Or create an account
 <img align='left' alt='restaurant app screenshot' src="./restaurant app.png">
 ---
 
-
-### 2. KOR CROSSFIT LEADERBOARD
-
-### Skills:
-Design, Frontend, Backend, Database
-
-### Github Repository:
-FRONTEND: https://github.com/altomizawa/open2024_leaderboard
-</br>
-BACKEND: https://github.com/altomizawa/open2024_leaderboard_backend
-
-### Live view:
-To view the live website, visit: https://korleaderboardopen2024.netlify.app/
-</br> username: chucknorris@gmail.com </br> password: Chucky77
-</br>
-Or create an account
-
-### Screenshots:
-#
-</br>
-</br>
-<img align='left' alt='restaurant app screenshot' src="./kor leaderboard.png">
-</br>
----
-
-
-### 3. KOR REP COUNTER FOR CROSSFIT OPEN 2024
-### Skills:
-Design, UX, UI, Frontend Development
-
-### Github Repository:
-https://github.com/altomizawa/open24
-
-### Live view:
-To view the live website, visit: https://open2024.netlify.app/
-
-### Screenshots:
-#
-</br>
-</br>
-<img align='left' alt='KOR Rep Counter' src="./rep counter.png">
-</br>
----
-
-
-### 4. PERSONAL ART DIRECTOR PORTFOLIO (NO CODE PLATFORM)
+### 2. PERSONAL ART DIRECTOR PORTFOLIO (NO CODE PLATFORM)
 ### Skills:
 Design, UX, UI, Frontend Development
 
@@ -181,6 +136,51 @@ https://github.com/altomizawa/altomizawa/assets/45319659/6fcb84b9-0549-4659-9b99
 <img align='left' alt='mobile version one' src="./Mobile2.png">
 </br>
 ---
+
+
+### 3. KOR CROSSFIT LEADERBOARD
+
+### Skills:
+Design, Frontend, Backend, Database
+
+### Github Repository:
+FRONTEND: https://github.com/altomizawa/open2024_leaderboard
+</br>
+BACKEND: https://github.com/altomizawa/open2024_leaderboard_backend
+
+### Live view:
+To view the live website, visit: https://korleaderboardopen2024.netlify.app/
+</br> username: chucknorris@gmail.com </br> password: Chucky77
+</br>
+Or create an account
+
+### Screenshots:
+#
+</br>
+</br>
+<img align='left' alt='restaurant app screenshot' src="./kor leaderboard.png">
+</br>
+---
+
+
+### 4. KOR REP COUNTER FOR CROSSFIT OPEN 2024
+### Skills:
+Design, UX, UI, Frontend Development
+
+### Github Repository:
+https://github.com/altomizawa/open24
+
+### Live view:
+To view the live website, visit: https://open2024.netlify.app/
+
+### Screenshots:
+#
+</br>
+</br>
+<img align='left' alt='KOR Rep Counter' src="./rep counter.png">
+</br>
+---
+
 
 # LET'S GET IN TOUCH
 
