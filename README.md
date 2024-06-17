@@ -136,10 +136,10 @@ Or create an account
 
 ### 3. KOR REP COUNTER FOR CROSSFIT OPEN 2024
 ### Skills:
-Design, Frontend
+Design, UX, UI, Frontend Development
 
 ### Github Repository:
-FRONTEND: https://github.com/altomizawa/open24
+https://github.com/altomizawa/open24
 
 ### Live view:
 To view the live website, visit: https://open2024.netlify.app/
@@ -155,7 +155,10 @@ To view the live website, visit: https://open2024.netlify.app/
 
 ### 4. PERSONAL ART DIRECTOR PORTFOLIO (NO CODE PLATFORM)
 ### Skills:
-Design, React
+Design, UX, UI, Frontend Development
+
+### Github Repository
+https://github.com/altomizawa/als-portfolio
 
 ### Live view:
 To view the live website, visit: https://alsportfolio.netlify.app/
@@ -169,6 +172,15 @@ https://github.com/altomizawa/altomizawa/assets/45319659/6fcb84b9-0549-4659-9b99
 
 
 </br>
+
+### Screenshots:
+#
+</br>
+</br>
+<img align='left' alt='mobile version one' src="./Mobile1.png">
+<img align='left' alt='mobile version one' src="./Mobile2.png">
+</br>
+---
 
 # LET'S GET IN TOUCH
 
