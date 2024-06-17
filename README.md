@@ -163,7 +163,7 @@ https://github.com/altomizawa/als-portfolio
 ### Live view:
 To view the live website, visit: https://alsportfolio.netlify.app/
 
-### Demo Video:
+### Demo Video (DESKTOP):
 #
 </br>
 </br>
@@ -173,7 +173,7 @@ https://github.com/altomizawa/altomizawa/assets/45319659/6fcb84b9-0549-4659-9b99
 
 </br>
 
-### Screenshots:
+### Screenshots (MOBILE):
 #
 </br>
 </br>
