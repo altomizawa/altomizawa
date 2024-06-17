@@ -123,7 +123,8 @@ To view the live website, visit: https://alsportfolio.netlify.app/
 </br>
 </br>
 
-https://github.com/altomizawa/altomizawa/assets/45319659/6fcb84b9-0549-4659-9b99-91d843f6eaf5
+https://github.com/altomizawa/altomizawa/assets/45319659/bac9160e-13a2-40b0-8a26-b959192c9d3f
+
 
 
 </br>
