@@ -151,7 +151,7 @@ BACKEND: https://github.com/altomizawa/open2024_leaderboard_backend
 
 ### Live view:
 To view the live website, visit: https://korleaderboardopen2024.netlify.app/
-</br> username: chucknorris@gmail.com </br> password: Chucky77
+</br> username: chucknorris@gmail.com </br> password: AT77at77
 </br>
 Or create an account
 
