@@ -55,6 +55,7 @@
 <img align='left' alt='next js logo' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align='left' alt='git logo' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align='left' alt='node logo' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align='left' alt='express logo' width='30px' style="padding-right:10px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align='left' alt='mongo db logo' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
         
 </br>
