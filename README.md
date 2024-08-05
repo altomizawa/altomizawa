@@ -160,7 +160,7 @@ Or create an account
 #
 </br>
 </br>
-<img align='left' alt='restaurant app screenshot' src="./kor leaderboard.png">
+<img align='left' alt='restaurant app screenshot' src="./kor_mosaic.png">
 </br>
 ---
 
