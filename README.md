@@ -109,7 +109,7 @@ Or create an account
 <img align='left' alt='restaurant app screenshot' src="./restaurant app.png">
 ---
 
-### 2. PERSONAL ART DIRECTOR PORTFOLIO (NO CODE PLATFORM)
+### 2. PERSONAL ART DIRECTOR PORTFOLIO
 ### Skills:
 Design, UX, UI, Frontend Development
 
@@ -140,7 +140,31 @@ https://github.com/altomizawa/altomizawa/assets/45319659/bac9160e-13a2-40b0-8a26
 ---
 
 
-### 3. KOR CROSSFIT LEADERBOARD
+### 3. SCROLLTRIGGER WITH VANILLA JS
+### Skills:
+Design, UX, UI, Frontend Development, Javascript
+
+### Github Repository:
+https://github.com/altomizawa/scrolltrigger_vanillajs
+
+### Video Demo:
+
+
+https://github.com/user-attachments/assets/a8c96677-8232-471a-a9c8-732529082458
+
+### Screenshots:
+#
+</br>
+</br>
+<img align='left' alt='Desktop Screenshots' src="./desktop_montage.png">
+<img align='left' alt='Mobile Screenshots' src="./mobile__montage.png">
+</br>
+---
+
+
+
+
+### 4. KOR CROSSFIT LEADERBOARD
 
 ### Skills:
 Design, Frontend, Backend, Database
@@ -165,27 +189,6 @@ Or create an account
 ---
 
 
-### 4. SCROLLTRIGGER WITH VANILLA JS
-### Skills:
-Design, UX, UI, Frontend Development, Javascript
-
-### Github Repository:
-[https://github.com/altomizawa/open24](https://github.com/altomizawa/scrolltrigger_vanillajs)
-
-### Video Demo:
-
-
-https://github.com/user-attachments/assets/a8c96677-8232-471a-a9c8-732529082458
-
-### Screenshots:
-#
-</br>
-</br>
-<img align='left' alt='Desktop Screenshots' src="./desktop_montage.png">
-<img align='left' alt='Mobile Screenshots' src="./mobile__montage.png">
-</br>
-
----
 
 
 # LET'S GET IN TOUCH
