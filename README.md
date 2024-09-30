@@ -182,7 +182,7 @@ https://github.com/user-attachments/assets/a8c96677-8232-471a-a9c8-732529082458
 </br>
 </br>
 <img align='left' alt='Desktop Screenshots' src="./desktop_montage.png">
-<img align='left' alt='Mobile Screenshots' src="./mobile_montage.png">
+<img align='left' alt='Mobile Screenshots' src="./mobile__montage.png">
 </br>
 
 ---
