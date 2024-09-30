@@ -165,15 +165,17 @@ Or create an account
 ---
 
 
-### 4. KOR REP COUNTER FOR CROSSFIT OPEN 2024
+### 4. SCROLLTRIGGER WITH VANILLA JS
 ### Skills:
-Design, UX, UI, Frontend Development
+Design, UX, UI, Frontend Development, Javascript
 
 ### Github Repository:
-https://github.com/altomizawa/open24
+[https://github.com/altomizawa/open24](https://github.com/altomizawa/scrolltrigger_vanillajs)
 
-### Live view:
-To view the live website, visit: https://open2024.netlify.app/
+### Video Demo:
+
+
+https://github.com/user-attachments/assets/a8c96677-8232-471a-a9c8-732529082458
 
 ### Screenshots:
 #
