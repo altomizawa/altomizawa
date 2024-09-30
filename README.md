@@ -140,6 +140,16 @@ https://github.com/altomizawa/altomizawa/assets/45319659/bac9160e-13a2-40b0-8a26
 ---
 
 
+
+### Screenshots (DESKTOP):
+#
+</br>
+</br>
+<img align='left' alt='mobile version one' src="./portfolio_desktop_montage.png">
+</br>
+---
+
+
 ### 3. SCROLLTRIGGER WITH VANILLA JS
 ### Skills:
 Design, UX, UI, Frontend Development, Javascript
