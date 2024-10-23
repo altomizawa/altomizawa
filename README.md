@@ -97,7 +97,7 @@ FRONTEND: https://github.com/altomizawa/food-ordering_frontend
 BACKEND: https://github.com/altomizawa/food-ordering_backend
 
 ### Live view:
-To view the live website, visit: www.italiarestaurant.netlify.app
+To view the live website, visit: https://italiarestaurant.netlify.app/
 </br> username: chucknorris@gmail.com </br> password: 123456
 </br>
 Or create an account
