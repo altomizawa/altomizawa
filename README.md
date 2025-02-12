@@ -3,7 +3,7 @@
 
 .
 
-### I'm a senior Art Director/Designer who can code.
+### I'm a Front End Developer who had a past life as an Art Director.
 (I'm also a CrossFit Box Owner, my wife's personal chef and my daughter's Uber driver )
 
 #
