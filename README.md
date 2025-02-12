@@ -1,4 +1,4 @@
-<img align='left' alt='header image' src="./github__header-image.svg" />
+<img align='left' alt='header image' src="./github__header-image_hitech.png" />
 </br>
 
 .
