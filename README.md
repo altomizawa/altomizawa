@@ -86,7 +86,31 @@
 
 # MAIN PROJECTS
 
-### 1. ITALIA RESTAURANT DELIVERY APP
+### 1. FULL-STACK FUNCTIONAL BODY BUILDING APP 💪
+
+### Skills:
+Full Stack Development, Authentication, Role-based Access Control, User Workflow Tracking, Media Integration
+
+### Github Repository:
+FULL STACK APP: https://github.com/altomizawa/functional-body-building
+
+### Live view:
+To view the live website, visit: [https://functional-body-building.netlify.app/](https://functional-body-building.vercel.app/)
+</br> username: test-user@gmail.com </br> password: TEST-user1
+</br>
+Or create an account
+
+### Screenshots:
+#
+</br>
+</br>
+<img width="1279" height="800" alt="image" src="https://github.com/user-attachments/assets/000d13c8-4cdb-453d-8d59-dc3f29975f41" />
+<img width="1274" height="798" alt="image" src="https://github.com/user-attachments/assets/3134fcfa-b829-46da-8884-fee8cc13e88a" />
+
+
+---
+
+### 2. ITALIA RESTAURANT DELIVERY APP
 
 ### Skills:
 Design, Frontend, Backend, Database
@@ -109,7 +133,7 @@ Or create an account
 <img align='left' alt='restaurant app screenshot' src="./restaurant app.png">
 ---
 
-### 2. PERSONAL ART DIRECTOR PORTFOLIO
+### 3. PERSONAL ART DIRECTOR PORTFOLIO
 ### Skills:
 Design, UX, UI, Frontend Development
 
@@ -150,7 +174,7 @@ https://github.com/altomizawa/altomizawa/assets/45319659/bac9160e-13a2-40b0-8a26
 ---
 
 
-### 3. SCROLLTRIGGER WITH VANILLA JS
+### 4. SCROLLTRIGGER WITH VANILLA JS
 ### Skills:
 Design, UX, UI, Frontend Development, Javascript
 
@@ -174,7 +198,7 @@ https://github.com/user-attachments/assets/a8c96677-8232-471a-a9c8-732529082458
 
 
 
-### 4. KOR CROSSFIT LEADERBOARD
+### 5. KOR CROSSFIT LEADERBOARD
 
 ### Skills:
 Design, Frontend, Backend, Database
